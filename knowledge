@@ -7,11 +7,11 @@
         <meta charset="UTF-8">
         <title> העלאת קבצים מהאתר</title>
    </head>
-   
+ <!--  
     <body style="text-align:center;">
 		<img src="ITNAV.jpg" alt="ITNAVPro">
         <h1 style="text-align:center;">!שלום לכולם</h1>
-	
+-->	
 <script type="text/javascript" charset="utf-8">
   (function (g, e, n, es, ys) {
     g['_genesysJs'] = e;
